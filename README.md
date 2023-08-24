@@ -5,7 +5,7 @@
 
 # Uses:
 <ul><li>
- Login wih one of the login these credentials:
+ Login wih one of these credentials:
  <li>Username: ds, Pin : 1111</li>
  <li>Username: jd, Pin : 2222</li>
  <li>Username: stw, Pin : 3333</li>
